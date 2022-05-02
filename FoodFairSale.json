@@ -1,0 +1,86 @@
+[
+    {
+        "dni": 1234, 
+        "name": "Coca Cola", 
+        "price": 1.99, 
+        "descuento": 0, 
+        "subtotal": 1.99
+    }, 
+    {
+        "dni": 1234, 
+        "name": "Pizza", 
+        "price": 1.99, 
+        "descuento": 0, 
+        "subtotal": 1.99
+    }, 
+    {
+        "dni": 4321, 
+        "name": "Hamburguesa", 
+        "price": 25.99, 
+        "descuento": 0, 
+        "subtotal": 25.99
+    }, 
+    {
+        "dni": 4321, 
+        "name": "Hamburguesa", 
+        "price": 25.99, 
+        "descuento": 0, 
+        "subtotal": 25.99
+    }, 
+    {
+        "dni": 4321, 
+        "name": "Hamburguesa", 
+        "price": 25.99, 
+        "descuento": 0, 
+        "subtotal": 25.99
+    }, 
+    {
+        "dni": 4321, 
+        "name": "Hamburguesa", 
+        "price": 25.99, 
+        "descuento": 0, 
+        "subtotal": 25.99
+    }, 
+    {
+        "dni": 4321, 
+        "name": "Hamburguesa", 
+        "price": 25.99, 
+        "descuento": 0, 
+        "subtotal": 25.99
+    }, 
+    {
+        "dni": 4321, 
+        "name": "Hamburguesa", 
+        "price": 25.99, 
+        "descuento": 0, 
+        "subtotal": 25.99
+    }, 
+    {
+        "dni": 4321, 
+        "name": "Hamburguesa", 
+        "price": 25.99, 
+        "descuento": 0, 
+        "subtotal": 25.99
+    }, 
+    {
+        "dni": 4321, 
+        "name": "Hamburguesa", 
+        "price": 25.99, 
+        "descuento": 0, 
+        "subtotal": 25.99
+    }, 
+    {
+        "dni": 1234, 
+        "name": "Cerveza", 
+        "price": 5.99, 
+        "descuento": 0, 
+        "subtotal": 59.900000000000006
+    }, 
+    {
+        "dni": 1234, 
+        "name": "Jugo", 
+        "price": 9.99, 
+        "descuento": 0, 
+        "subtotal": 19.98
+    }
+]

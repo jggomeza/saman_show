@@ -1,0 +1,163 @@
+{
+    "events": [
+        {
+            "title": "Saman Fest", 
+            "type": 1, 
+            "bands": 4, 
+            "cartel": [
+                "Los Cocineros", 
+                "Ramayana", 
+                "CacetVersus", 
+                "La vida Hippie"
+            ], 
+            "layout": {
+                "general": [
+                    4, 
+                    10
+                ], 
+                "vip": [
+                    1, 
+                    10
+                ]
+            }, 
+            "prices": [
+                50, 
+                100
+            ], 
+            "date": "2022-04-01"
+        }, 
+        {
+            "title": "KenaAna & Guako", 
+            "type": 1, 
+            "bands": 2, 
+            "cartel": [
+                "Guako", 
+                "kenaAna"
+            ], 
+            "layout": {
+                "general": [
+                    4, 
+                    10
+                ], 
+                "vip": [
+                    1, 
+                    6
+                ]
+            }, 
+            "prices": [
+                30, 
+                50
+            ], 
+            "date": "2022-04-01"
+        }, 
+        {
+            "title": "El famtasma del paraninfo", 
+            "synopsis": "En esencia, la trama de El Fantasma del Paraninfo es una historia que combina romance, m\u00fasica, terror, misterio y tragedia. Trata de Eric, un hombre misterioso, un genio musical, que se enamora perdidamente de Cristina, una joven y talentosa artista, a quien inspira musicalmente", 
+            "type": 2, 
+            "cartel": [
+                "Leonardo DeCapo", 
+                "Cendella", 
+                "Ed Ramiro"
+            ], 
+            "layout": {
+                "general": [
+                    5, 
+                    10
+                ], 
+                "vip": [
+                    4, 
+                    3
+                ]
+            }, 
+            "prices": [
+                5, 
+                10
+            ], 
+            "date": "2022-05-10"
+        }, 
+        {
+            "title": "Romeo & Julieta", 
+            "synopsis": "En Verona, dos j\u00f3venes enamorados, de dos familias enemigas, son v\u00edctimas de una situaci\u00f3n de odio y violencia que ni desean ni pueden remediar. En una de esas tardes de verano en que el calor \u00abinflama la sangre\u00bb, Romeo, reci\u00e9n casado en secreto con su amada Julieta, mata al primo de \u00e9sta", 
+            "type": 2, 
+            "cartel": [
+                "Romeo Gonzalez", 
+                "Julieta Hernandez"
+            ], 
+            "layout": {
+                "general": [
+                    1, 
+                    5
+                ], 
+                "vip": [
+                    1, 
+                    5
+                ]
+            }, 
+            "prices": [
+                10, 
+                25
+            ], 
+            "date": "2022-12-31"
+        }
+    ], 
+    "food_fair_inventory": [
+        {
+            "name": "Coca Cola", 
+            "price": [
+                1.99, 
+                2.99, 
+                3.99
+            ], 
+            "amount": 500, 
+            "type": 2
+        }, 
+        {
+            "name": "Pizza", 
+            "price": 11.99, 
+            "amount": 230, 
+            "presentation": 1, 
+            "type": 1
+        }, 
+        {
+            "name": "Hamburguesa", 
+            "price": 25.99, 
+            "amount": 250, 
+            "presentation": 1, 
+            "type": 1
+        }, 
+        {
+            "name": "Jugo", 
+            "price": [
+                9.99, 
+                10.99, 
+                11.99
+            ], 
+            "amount": 250, 
+            "type": 2
+        }, 
+        {
+            "name": "Cerveza", 
+            "price": [
+                5.99, 
+                6.99, 
+                7.99
+            ], 
+            "amount": 300, 
+            "type": 2
+        }, 
+        {
+            "name": "Doritos", 
+            "price": 4.99, 
+            "amount": 500, 
+            "presentation": 2, 
+            "type": 1
+        }, 
+        {
+            "name": "Platanitos", 
+            "price": 3.99, 
+            "amount": 734, 
+            "presentation": 2, 
+            "type": 1
+        }
+    ]
+}
